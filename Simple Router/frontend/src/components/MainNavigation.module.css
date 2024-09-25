@@ -1,0 +1,26 @@
+.header {
+    /* max-width: 60rem;
+    margin: auto;
+    padding: 1em;
+    display: flex; */
+    justify-content: start; 
+  }
+  
+  .list {
+    display: flex;
+    gap: 1rem;
+    color: white;
+    text-shadow:rgb(119, 12, 12);
+    list-style-type: none;
+  }
+  
+  .list  a{
+    text-decoration: none;
+    color: var(--color-primary-400);
+  }
+  
+  .list a:hover,
+  .list a.active {
+    color: rgb(165, 156, 156);
+    text-decoration: underline;
+  }
