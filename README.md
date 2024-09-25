@@ -16,3 +16,10 @@ React Router enhances user experience by providing a fluid, single-page applicat
 - Redirects : Easily implement redirects for certain routes based on conditions.
 - Route Guards: Protect routes and control access based on user authentication or roles.
 - Custom Route Matching : Create custom logic for matching routes beyond the default behavior.
+
+
+
+## Examples 
+| Name | Link     | 
+| :-------- | :------- |
+| `Basic Router` | [Link](https://github.com/rahulkulkarni375/React-Router/tree/main/Simple%20Router)|
